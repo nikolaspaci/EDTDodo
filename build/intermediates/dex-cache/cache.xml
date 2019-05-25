@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.0.aar\00c877f2bb69a780900e4c9f9b71a4b2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5938c442edeb4a3602f3e3ebc274342aee1107d">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.0.aar\44e629597bd5324cbb1d0dee42553392\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="801ee1436d056ff4bac3f70f5f1ae3aa571c0899">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.0.aar\8d9f529fff10825a3ea562bfad0367be\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a97a29bc68d1725b7a29f85176147d6dc73e038">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\9009fcc2764240ecbb788acd1d1868ed\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.0.aar\920f865c085cf30e5119d6658e398b5a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="951ba77bf5849f84afd04a3e56e1b163b79ce2a9">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\104c7e065bc9e9f005c21396f18185c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.0.aar\d78e7acd5676c67cb6ddc0cf45ada98d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="96681d4226b125924e1eb4bd7249de1ea9ad0e30">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.0.aar\58752007b61bf6cb863dc669a5f7d9ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f18008389774d810ecdad87bff839c65f784f8e">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.1.0.aar\3fc8635793e6fe80b9c5e35234b2cda7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="757d7e742ee90d50242abdc8616bfcfd04ad0575">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a228ec27b9faec0681e0d738e502f90a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5f31ec36f652d755a2832ec23be6098b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\b22f15d41711869527dab811fda9f319\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\62cf538b3b134de360d5f783f631b344\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acaecf3acc212bf268723a6c6c0a4a97749b6842">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.0.aar\c6a07754afc03572d237d9c318376d67\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="103622b68c89bf6f2cd33b944cfc71ba8adf9eac">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7a4d138ce8076d2de56206eae6c1eb2e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\aa29621081a0ac302f128a30d5b26c2c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896157c946ba7b52b3d2b8dcc29ee101\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eba7c1a2f59c3eddfc6bfaa6d1e51632\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1455cfab53034a45532d1de632ecb816\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.0.aar\08bc69ff534c06398300978a43ab6e3e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b7acc7cd4d5fbe2d702574c97c0277a10df0a62">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.9\9ce04e34240f674bc72680f8b843b1457383161a\commons-codec-1.9.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2cf72b6b7e089d43998b7aae90a1daae\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.0.aar\3304c60cd0927767f64c91be8b9e3b48\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4fa17733a0a99c4cddabc2d915acff64e76c12d3">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.0.aar\79ad614eeb91a75b91f4618cbc26961b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b669797c26467f53a8fce750f74f2853c7fb5939">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\materialiconlib-1.1.4.aar\14cf2abde0269e76b0bf50dcd9559bdb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2673ac97c3f90c9da0c25563777a2a0e10de9ae2">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d71a4274717b6f62837c87f127783eb2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\android-week-view-1.2.6.aar\4552d805caab34219c6e62de7ad793f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.0.aar\64a80b18f1045c91c07dfed258bc1347\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="451af2ad49edf153d78e47183443159ba173d6d0">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8953b8e988015bbbed4af66bd597bcf8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nikol\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\534d38d44f0781fca91fe09637f56c4a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\nikol\Desktop\Pjs4android\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+
+</items>
